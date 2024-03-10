@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bandicoot"]
+	path = bandicoot
+	url = https://github.com/tengmcing/bandicoot
 [submodule "spotoroo"]
 	path = spotoroo
 	url = https://github.com/tengmcing/spotoroo
